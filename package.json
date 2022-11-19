@@ -1,0 +1,23 @@
+{
+  "name": "axios-timeout",
+  "version": "1.0.0",
+  "description": "A demo repo for Axios timeout blog post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geshan/axios-timeout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geshan/axios-timeout/issues"
+  },
+  "homepage": "https://github.com/geshan/axios-timeout#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
